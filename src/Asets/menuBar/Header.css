@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.header-box{
+    color: #777;
+    height: 48px;
+    position: relative;
+    background: #f1f1f1;
+    border-bottom: 1px solid #ddd;
+    /* position: absolute; */
+    /* font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; */
+}
+.countries{
+    position: absolute;
+    top: 10px;
+    left: 85%;
+
+}
+.countries select{
+    width: 150px;
+    padding: 7px;
+}
+.countries select option{
+   background-color: rgb(224, 224, 224);
+
+}

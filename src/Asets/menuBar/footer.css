@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.footer-a a{
+    text-decoration: none;
+    color: rgb(63, 63, 253);
+    padding: 10px;
+    font-size: small;
+   
+}
+.footer-box{
+    color: #777;
+    height: 100px;
+    background: #f1f1f1;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #777;
+    
+}
+.footer-p{
+    display: flex;
+}
+.footer-p p{
+    padding: 10px;
+    font-size: small;
+}

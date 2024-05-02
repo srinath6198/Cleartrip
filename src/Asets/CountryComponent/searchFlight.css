@@ -1,0 +1,72 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.searchFlight{
+    width: 300px;
+    font-size: 16px;
+    padding: 10px;
+    position: fixed; 
+    border:  1px solid gray;
+}
+.searchFlight-1 img{
+width: 30px;
+/* padding: 5px; */
+margin-left: 10px;
+background-color: #ffcc00;
+}
+.searchFlight-1 {
+position: relative;
+
+}
+.searchFlight-1  p{
+    background-color:#ffcc00;
+    padding: 10px;
+    font-weight: 700;
+    color: black;
+}
+.searchFlight-1 a{
+    text-decoration: none;
+
+}
+.search-para p{
+    background-color:#ffcc00;
+    padding: 10px;
+    font-weight: 700;
+    color: black;
+}
+#searchFlight-radio input {
+    margin-left: 20px;
+    margin-top: 20px;
+    font-weight: 400;
+
+}
+#searchFlight-radio label{
+    font-weight: 600;
+}
+.searchFlight-2{
+    line-height: 2;
+}
+.searchFlight-2 input{
+    width: 250px;
+    padding: 7px;
+}
+.searchFlight-2 p{
+    font-weight: 600;
+}
+.searchFlight-2 label{
+    font-weight: 600;
+}
+#searchFlight-2{
+    margin: 10px;
+}
+#searchFlight-2 button{
+    margin-left: 150px;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: #f86810;
+    cursor: pointer;
+    border: 1px solid
+}
